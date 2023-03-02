@@ -58,6 +58,7 @@ body{
 .feature{
     width: 340px;
     height: 245px;
+    list-style-type: none;
 }
 .features-heading{
     width: 435px;
@@ -111,14 +112,16 @@ body{
     background-color: rgba(37, 36, 32, .5);
     height: 2px;
 }
-.footer ul{
-    list-style: none;
-}
-.footer ul{
-    text-decoration: none;
-    color: #252420;
-}
 .page-items{
     width: 224px;
     line-height: 19px;
+}
+.footer ul{
+    list-style-type: none;
+    text-decoration: none;
+    color: #252420;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: #252420;
 }
