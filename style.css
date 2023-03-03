@@ -193,6 +193,6 @@ header{
 .footer ul li a:hover{
     color: #ff7500;
 }
-.footer ul li a:focus{
+.footer ul li a:active{
     opacity: 0.6;
 }
