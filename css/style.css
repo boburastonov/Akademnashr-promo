@@ -29,6 +29,9 @@ header{
 .logo-link:active{
     opacity: 0.6;
 }
+.logo-link img{
+    display: block;
+}
 .parent-item{
     display: flex;
     padding: 0;
